@@ -1,0 +1,29 @@
+.divpost {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid red;
+    background: whitesmoke;
+    border-radius: 10px;
+  }
+
+.blockflex {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.img{
+    border-radius: 4px;
+    width: 150px;
+}
+
+body{
+    background-color: #BFBFBF;
+}
+
+h2{
+    text-align: center;
+}
